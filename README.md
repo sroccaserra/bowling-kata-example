@@ -1,3 +1,3 @@
 Notes in the form of solution examples of the Bowling Game Kata in Java.
 
-See the branches for a procedural solution, and an Object-Oriented solution.
+I like to do a structured solution, and an object-oriented solution.
